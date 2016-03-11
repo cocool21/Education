@@ -5,6 +5,7 @@ Job engineer=new Job();
 Education edu=new Education();
 edu.setSchool("Bryan Elementary",1988);
 edu.setSchool("Montgomory", 1994);
+edu.setSchool("Rockville",1997);
 
 
 engineer.setRole("engineer");
